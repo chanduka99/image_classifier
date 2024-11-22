@@ -124,6 +124,7 @@ pip uninstall numpy==1.26
 ### 8. install tensorflow
 
 - make sure to open the anaconda prompt in administrator
+
   ![alt text](image-1.png)
 
 - run the following
